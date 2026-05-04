@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L3C6WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcc6592c78631260197171ef55c30d30b46273fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("L3C6WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L3C6WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
