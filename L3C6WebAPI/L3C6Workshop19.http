@@ -1,0 +1,6 @@
+@L3C6Workshop19_HostAddress = http://localhost:5184
+
+GET {{L3C6Workshop19_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
